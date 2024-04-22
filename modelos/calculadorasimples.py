@@ -35,4 +35,4 @@ elif operador == '*':
  print("Multiplicação:", guarda_numero.multiplicacao_numeros()) 
 elif operador == '/':
  print("Divisão:", guarda_numero.divisao_numero())
- 
+
